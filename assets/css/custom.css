@@ -1,0 +1,13 @@
+/* Add here all your css styles (customizations) */
+.mapoffice{
+	position:relative;
+	margin-top:25px;
+	margin-bottom:10px;
+}
+
+.mapoffice iframe{
+	width:100%;
+	height:350px;
+	border:none;
+}
+
